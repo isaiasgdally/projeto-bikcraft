@@ -1,3 +1,10 @@
+img{
+   display: block;
+   grid-template-rows: 1/3;
+   border-radius: 4px;
+   max-width: 100%;
+}
+
 .introducao-bg{
    background-color: #000000;
    color: #ffffff;
@@ -20,11 +27,9 @@ a{
 }
 
 .introducao img{
-   max-width: 100%;
-   display: block;
+   height: 100%;
    object-fit: cover;
-   grid-template-rows: 1/3;
-   border-radius: 4px;
+
 }
 
 
@@ -66,4 +71,22 @@ a{
 .introducao a:hover{
    background: linear-gradient(#ffb60d, #e59317);
    transition: 0.5s;
+}
+
+@media (max-width: 1200px){
+   .introducao h1{
+      font-size: 48px;
+   }
+   .introducao p{
+      font-size: 18px;
+   }
+}
+
+
+@media (max-width: 800px){
+   .introducao h1{
+      font-size: 32px;
+      margin-bottom: 16px;
+   }
+
 }

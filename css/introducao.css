@@ -108,6 +108,6 @@ a{
    }
    .introducao img{
       height: 300px;
-      width: auto;
+      width: 100%;
    }
 }

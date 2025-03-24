@@ -7,7 +7,6 @@ img{
 
 .introducao-bg{
    background-color: #000000;
-   color: #ffffff;
    box-shadow: inset 0 -120px #ffffff;
 }
 
@@ -40,14 +39,10 @@ a{
 
 .introducao h1{
    margin-bottom: 32px;
-   font-size: 64px;
-   line-height: 1.125;
 }
 
 .introducao p{
    margin-bottom: 20px;
-   font-size: 24px;
-   line-height: 1.55;
    color: #b2b2b2;
 }
 

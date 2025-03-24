@@ -2,6 +2,14 @@
 @import './header.css';
 @import './introducao.css';
 
+/* cores */
+
+@import './utilitarios/cores.css';
+
+/* tipografia */
+
+@import './utilitarios/tipografia.css';
+
 /* utilitarios */
 
-@import './utilitarios/botao.css'
+@import './utilitarios/botao.css';

@@ -1,0 +1,99 @@
+/* variaveis */
+:root{
+   --cor-branco: #ffffff;
+   --cor-cinza1: #f7f7f7;
+   --cor-cinza2: #ededed;
+   --cor-cinza3: #dedede;
+   --cor-cinza4: #cccccc;
+   --cor-cinza5: #b2b2b2;
+   --cor-cinza6: #9c9c9c;
+   --cor-cinza7: #717171;
+   --cor-cinza8: #595959;
+   --cor-cinza9: #404040;
+   --cor-cinza10: #2e2e2e;
+   --cor-cinza11: #111111;
+   --cor-amarelo1: #ffbb00;
+   --cor-amarelo2:  #e4a30b;
+   --cor-amarelo3: #a66f00;
+   --cor-amarelo4: #664400;
+   --cor-amarelo5: #332200;
+}
+
+
+
+
+.cor-branco{
+   color: #ffffff;
+}
+.cor-preto{
+   color: #000000;
+}
+
+
+/* cinza */
+.cinza-1{
+   color:#f7f7f7;
+}
+
+.cinza-2{
+   color: #ededed;
+}
+
+.cinza-3{
+   color: #dedede;
+}
+
+.cinza-4{
+   color: #cccccc;
+}
+
+.cinza-5{
+   color: #b2b2b2;
+}
+
+.cinza-6{
+   color: #9c9c9c;
+}
+
+.cinza-7{
+   color: #717171;
+}
+
+.cinza-8{
+   color: #595959;
+}
+
+.cinza-9{
+   color: #404040;
+}
+
+.cinza-10{
+   color: #2e2e2e;
+}
+
+.cinza-11{
+   color: #111111;
+}
+
+
+
+/* amarelo */
+.amarelo-1{
+   color: #ffbb00;
+}
+
+.amarelo-2{
+   color: #e4a30b;
+}
+
+.amarelo-3{
+   color: #a66f00;
+}
+
+.amarelo-4{
+   color: #664400;
+}
+
+.amarelo-5{
+   color: #332200;
+}

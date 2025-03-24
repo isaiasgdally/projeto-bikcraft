@@ -39,9 +39,7 @@ a{
 .header-menu a{
    display: inline-block;
    position: relative;
-   color: #ffffff;
   padding: 16px 0px;
-  font-size: 18px;
 }
 
 .header-menu a:after{

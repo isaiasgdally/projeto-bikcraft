@@ -13,7 +13,7 @@
    --cor-cinza10: #2e2e2e;
    --cor-cinza11: #111111;
    --cor-amarelo1: #ffbb00;
-   --cor-amarelo2:  #e4a30b;
+   --cor-amarelo2: #e4a30b;
    --cor-amarelo3: #a66f00;
    --cor-amarelo4: #664400;
    --cor-amarelo5: #332200;
@@ -23,77 +23,60 @@
 
 
 .cor-branco{
-   color: #ffffff;
+   color: var(--cor-branco);
 }
 .cor-preto{
-   color: #000000;
+   color: var(--cor-preto);
 }
-
 
 /* cinza */
 .cinza-1{
-   color:#f7f7f7;
+   color: var(--cor-cinza1);
 }
-
 .cinza-2{
-   color: #ededed;
+   color: var(--cor-cinza2);
 }
-
 .cinza-3{
-   color: #dedede;
+   color: var(--cor-cinza3);
 }
-
 .cinza-4{
-   color: #cccccc;
+   color: var(--cor-cinza4);
 }
-
 .cinza-5{
-   color: #b2b2b2;
+   color: var(--cor-cinza5);
 }
-
 .cinza-6{
-   color: #9c9c9c;
+   color: var(--cor-cinza6);
 }
-
 .cinza-7{
-   color: #717171;
+   color: var(--cor-cinza7);
 }
-
 .cinza-8{
-   color: #595959;
+   color: var(--cor-cinza8);
 }
-
 .cinza-9{
-   color: #404040;
+   color: var(--cor-cinza9);
 }
-
 .cinza-10{
-   color: #2e2e2e;
+   color: var(--cor-cinza10);
 }
-
 .cinza-11{
-   color: #111111;
+   color: var(--cor-cinza11);
 }
-
-
 
 /* amarelo */
-.amarelo-1{
-   color: #ffbb00;
+.cor-amarelo-1{
+   color:var(--cor-amarelo1);
 }
-
-.amarelo-2{
-   color: #e4a30b;
+.cor-amarelo-2{
+   color: var(--cor-amarelo2);
 }
-
-.amarelo-3{
-   color: #a66f00;
+.cor-amarelo-3{
+   color: var(--cor-amarelo3);
 }
-
-.amarelo-4{
-   color: #664400;
+.cor-amarelo-4{
+   color: var(--cor-amarelo4);
 }
-
-.amarelo-5{
-   color: #332200;
+.cor-amarelo-5{
+   color: var(--cor-amarelo5);
 }

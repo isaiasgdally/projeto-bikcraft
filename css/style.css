@@ -13,3 +13,6 @@
 /* utilitarios */
 
 @import './utilitarios/botao.css';
+
+/* lista de bicicletas */
+@import './bicicletas/bicicletas-lista.css';

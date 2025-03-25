@@ -12,7 +12,7 @@
 
 /* utilitarios */
 
-@import './utilitarios/botao.css';
+@import './utilitarios/componentes.css';
 
 /* lista de bicicletas */
 @import './bicicletas/bicicletas-lista.css';

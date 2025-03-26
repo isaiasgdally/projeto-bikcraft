@@ -1,0 +1,9 @@
+.tecnologia-bg{
+   background-color: var(--cor-cinza11);
+}
+
+.tecnologia{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   gap: 40px;
+}

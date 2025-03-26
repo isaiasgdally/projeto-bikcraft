@@ -4,18 +4,18 @@
 
 /* cores */
 
-@import './utilitarios/cores.css';
+@import '../utilitarios/cores.css';
 
 /* tipografia */
 
-@import './utilitarios/tipografia.css';
+@import '../utilitarios/tipografia.css';
 
 /* utilitarios */
 
-@import './utilitarios/componentes.css';
+@import '../utilitarios/componentes.css';
 
 /* lista de bicicletas */
-@import './bicicletas/bicicletas-lista.css';
+@import '../bicicletas/bicicletas-lista.css';
 
 /* tecnologia */
 @import './tecnologia.css';
@@ -27,4 +27,4 @@
 @import './depoimento.css';
 
 /* seguros */
-@import'./seguros/seguros.css'
+@import'../seguros/seguros.css';

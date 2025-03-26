@@ -25,3 +25,6 @@
 
 /* depoimento */
 @import './depoimento.css';
+
+/* seguros */
+@import'./seguros/seguros.css'

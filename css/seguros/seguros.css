@@ -38,4 +38,30 @@
    grid-column: 1/-1;
    margin-bottom: 32px;
  }
+
+  .seguros-item li{
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
  
+ .seguros-item li + li{
+  margin-top: 20px;
+ }
+
+ .seguros-item li::before{
+  content: '';
+  display: inline-block;
+  width: 13px;
+  height: 9px;
+  background-image: url(../../img/icones/lista.svg);
+  position: absolute;
+  left: -21px;
+ }
+
+@media(max-width: 800px){
+  .seguros
+  {
+    grid-template-columns: 1fr;
+  }
+}

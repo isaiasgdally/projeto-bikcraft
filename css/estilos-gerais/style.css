@@ -28,3 +28,6 @@
 
 /* seguros */
 @import'../seguros/seguros.css';
+
+/* Footer */
+@import'./footer.css';

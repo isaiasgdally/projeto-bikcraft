@@ -59,7 +59,7 @@
 @media (max-width: 800px) {
 
    .footer {
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns:1fr;
    }
 
   .footer-copy::before {

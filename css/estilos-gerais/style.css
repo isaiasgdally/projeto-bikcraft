@@ -31,3 +31,7 @@
 
 /* Footer */
 @import'./footer.css';
+
+/* termos e condições */
+
+@import'../termos/temos.css';

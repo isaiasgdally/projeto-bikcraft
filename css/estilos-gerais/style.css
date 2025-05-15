@@ -35,3 +35,6 @@
 /* termos e condições */
 
 @import'../termos/temos.css';
+
+/* bicicletas */
+@import '../bicicletas/bicicletas.css'

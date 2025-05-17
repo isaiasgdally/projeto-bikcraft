@@ -37,4 +37,10 @@
 @import'../termos/temos.css';
 
 /* bicicletas */
-@import '../bicicletas/bicicletas.css'
+@import '../bicicletas/bicicletas.css';
+
+/* seguros */
+@import '../seguros/seguros.css';
+
+/* perguntas */
+@import '../seguros/perguntas.css';

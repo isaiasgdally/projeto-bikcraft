@@ -44,3 +44,9 @@
 
 /* perguntas */
 @import '../seguros/perguntas.css';
+
+/* bicicletas interno */
+@import '../bicicletaas-interno/bicicleta-interno.css';
+
+/* seguro interno */
+@import '../bicicletaas-interno/seguro.css';

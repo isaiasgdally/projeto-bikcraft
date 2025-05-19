@@ -51,6 +51,11 @@
    
 }
 
+button{
+   border: none;
+   cursor: pointer;
+}
+
 .link{
    display: inline-block;
    color: var(--cor-amarelo1);

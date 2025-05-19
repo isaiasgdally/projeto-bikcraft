@@ -50,3 +50,12 @@
 
 /* seguro interno */
 @import '../bicicletaas-interno/seguro.css';
+
+/* contato */
+@import '../contato/contato.css';
+
+/* lojas */
+@import '../contato/lojas.css';
+
+/* formulario */
+@import '../utilitarios/formulario.css';
